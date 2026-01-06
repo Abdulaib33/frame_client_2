@@ -118,3 +118,12 @@ Designed for educational and evaluation purposes
 👤 Author
 EAFC – Final Evaluation Project  
 Modern Shopping Cart using Vue 3 & Pinia
+<p align="center">
+  <img src="https://img.shields.io/badge/Vue.js-3.x-42b883?logo=vuedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pinia-Store-ffd859?logo=pinia&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vite-Bundler-646cff?logo=vite&logoColor=white" />
+  <img src="https://img.shields.io/badge/TailwindCSS-3.x-38bdf8?logo=tailwindcss&logoColor=white" />
+  <img src="https://img.shields.io/badge/Netlify-Deployed-00c7b7?logo=netlify&logoColor=white" />
+  <img src="https://img.shields.io/badge/License-MIT-green" />
+</p>
+
